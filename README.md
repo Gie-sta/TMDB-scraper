@@ -13,17 +13,17 @@ Saves movies into MongoDb.
 
 npm start
 
-**get popular movies**
+**get popular movies:**
 /movies
 
-**get Now playing movies**
+**get Now playing movies:**
 /movies/nowplaying
 
-**get coming soon movies**
+**get coming soon movies:**
 /movies/comingsoon
 
-**get top rated movies**
+**get top rated movies:**
 /movies/toprated
 
-**get movie details**
+**get movie details:**
 /movies/:id

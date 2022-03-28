@@ -1,0 +1,17 @@
+dist
+lib
+node_modules
+coverage
+build
+
+yarn-error.log
+tsconfig.tsbuildinfo
+
+.vscode
+
+!**/overrides/**/lib
+!**/overrides/**/build
+
+package-lock.json
+.DS_Store
+.env
